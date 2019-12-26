@@ -3,6 +3,10 @@
     <description>Coding standard</description>
     <rule ref="PSR2"/>
 
+--runtime-set ignore_errors_on_exit 1
+--runtime-set ignore_warnings_on_exit 1
+
     <file>src</file>
     <file>tests</file>
 </ruleset>
+
