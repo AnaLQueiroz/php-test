@@ -45,7 +45,7 @@ interface CollectionInterface
     /**
      * Cleans the collection
      *
-     * Estou aqui para testar sua atenção. Remova-me.
+     * Ok, successfully removed
      *
      * @return void
      */
