@@ -2,6 +2,7 @@
 
 namespace Live\Collection;
 
+include('CollectionInterface.php');
 /**
  * Memory collection
  *
