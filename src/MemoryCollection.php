@@ -6,8 +6,7 @@ namespace Live\Collection;
  * Require CollectionInterface 
  * 
  */
-
-require_once('src/CollectionInterface.php');
+require_once('CollectionInterface.php');
 /**
  * Memory collection
  *
