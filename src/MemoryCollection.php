@@ -2,11 +2,7 @@
 
 namespace Live\Collection;
 
-/**
- * Require CollectionInterface 
- * 
- */
-require_once('CollectionInterface.php');
+include('CollectionInterface.php');
 /**
  * Memory collection
  *
